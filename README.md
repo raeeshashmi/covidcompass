@@ -4,22 +4,19 @@ A Flutter-powered COVID-19 tracking app that provides real-time global statistic
 
 ## 📱 Screenshots
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="screenshots/1.jpeg" alt="Splash Screen" width="300"/>
-  <img src="screenshots/2.jpeg" alt="Global Dashboard" width="300"/>
-  <img src="screenshots/3.jpeg" alt="Search Functionality" width="300"/>
-  <img src="screenshots/4.jpeg" alt="Detail Screen" width="300"/>
-</div>
+| Splash Screen | Global Dashboard | Search Functionality | Detail Screen |
+|---------------|------------------|----------------------|---------------|
+| <img src="screenshots/1.jpeg" width="200"> | <img src="screenshots/2.jpeg" width="200"> | <img src="screenshots/3.jpeg" width="200"> | <img src="screenshots/4.jpeg" width="200"> |
 
 ## 🚀 Features
 
-- 🌍 **Global & Country-specific Data**: Track cases, recoveries, and deaths across 200+ countries.
-- 🔍 **Search Functionality**: Instantly search for any country’s COVID-19 stats.
-- 📊 **Dynamic Charts**: Visualize trends for confirmed cases, recoveries, and deaths.
-- 🎨 **Beautiful UI**: Smooth transitions, animations, and responsive design.
-- 🛠️ **Real-Time Updates**: Powered by [Disease.sh API](https://disease.sh/).
+- 🌍 **Global & Country-specific Data**: Track cases, recoveries, and deaths across 200+ countries
+- 🔍 **Search Functionality**: Instantly search for any country's COVID-19 stats
+- 📊 **Dynamic Charts**: Visualize trends for confirmed cases, recoveries, and deaths
+- 🎨 **Beautiful UI**: Smooth transitions, animations, and responsive design
+- 🛠️ **Real-Time Updates**: Powered by [Disease.sh API](https://disease.sh/)
 
-## 🧪 Tech Stack
+## � Tech Stack
 
 - **Flutter** – Cross-platform development
 - **Dart** – Programming language

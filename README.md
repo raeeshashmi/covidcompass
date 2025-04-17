@@ -4,17 +4,17 @@ A Flutter-powered COVID-19 tracking app that provides real-time global statistic
 
 ## 📱 Screenshots
 
-### 🚀 Animated Splash Screen
-![Splash Screen](screenshots/1.jpeg)
+#### 🚀 Animated Splash Screen  
+<img src="screenshots/1.jpeg" alt="Splash Screen" width="300"/>
 
-### 🌐 Global Dashboard
-![Global Dashboard](screenshots/2.jpeg)
+#### 🌐 Global Dashboard  
+<img src="screenshots/2.jpeg" alt="Global Dashboard" width="300"/>
 
-### 🔍 Search Functionality
-![Search Screen](screenshots/3.jpeg)
+#### 🔍 Search Functionality  
+<img src="screenshots/3.jpeg" alt="Search Functionality" width="300"/>
 
-### 📋 Detail Screen
-![Detail Screen](screenshots/4.jpeg)
+#### 📋 Detail Screen  
+<img src="screenshots/4.jpeg" alt="Detail Screen" width="300"/>
 
 ## 🚀 Features
 

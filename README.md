@@ -1,16 +1,40 @@
-# covidtracker
+# 🦠 CovidCompass
 
-A new Flutter project.
+A Flutter-powered COVID-19 tracking app that provides real-time global statistics, country-specific data, and visualizations to help users stay informed and safe.
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+### 🚀 Animated Splash Screen
+![Splash Screen](screenshots/1.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+### 🌐 Global Dashboard
+![Global Dashboard](screenshots/2.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🔍 Search Functionality
+![Search Screen](screenshots/3.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📋 Detail Screen
+![Detail Screen](screenshots/4.jpeg)
+
+## 🚀 Features
+
+- 🌍 **Global & Country-specific Data**: Track cases, recoveries, and deaths across 200+ countries.
+- 🔍 **Search Functionality**: Instantly search for any country’s COVID-19 stats.
+- 📊 **Dynamic Charts**: Visualize trends for confirmed cases, recoveries, and deaths.
+- 🎨 **Beautiful UI**: Smooth transitions, animations, and responsive design.
+- 🛠️ **Real-Time Updates**: Powered by [Disease.sh API](https://disease.sh/).
+
+## 🧪 Tech Stack
+
+- **Flutter** – Cross-platform development
+- **Dart** – Programming language
+- **REST API** – Data source via [disease.sh](https://disease.sh/)
+- **Animations** – Custom splash screen and smooth navigation transitions
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/raeeshashmi/covidcompass.git
+cd covidcompass
+flutter pub get
+flutter run
